@@ -17,13 +17,13 @@
     v->Use file System(fs) and path module.
 3->First make the js file for help,Organise and tree.
 
-4->tree.js
+4->treefn
 
     -In this we are going to show the files and folders by using a particular format as tree.
-5->organise.js
+5->organisefn
 
     -In this we are going to organise the folders with their respective file extensions as media, document, archives and app.
-6->help.js
+6->helpfn
 
     -This is for helping purpose.
     
